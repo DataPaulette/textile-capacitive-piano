@@ -1,6 +1,6 @@
-# textile-capacitive-piano
+# Textile Piano
 Simple music in your fabric! Transform your clothes in musical instruments
-![textile-piano](http://wiki.datapaulette.org/lib/exe/detail.php/reseau/formations/atelier-pop4.gif?id=reseau%3Aformations%3Aformation_textile)
+![textile-piano](http://wiki.datapaulette.org/lib/exe/fetch.php/reseau/formations/atelier-pop4.gif)
 
 # Components
 
